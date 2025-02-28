@@ -4,4 +4,4 @@ Hola, me llamo **Alejandro Ponce**. Soy Senior Software Engineer con más de 7 a
 
 Este blog nace de mi pasión por el aprendizaje continuo. Aquí compartiré experiencias, buenas prácticas y soluciones a problemas técnicos que encuentro en mi día a día. Creo en la simplicidad del código, la escalabilidad de las soluciones y el poder del conocimiento compartido.
 
-Cuando no estoy programando, disfruto pasar tiempo con mi familia, leer, ver series y anime, y jugar videojuegos.
+Cuando no estoy programando, disfruto pasar tiempo con mi familia, leer, ver series,  anime y jugar videojuegos.
