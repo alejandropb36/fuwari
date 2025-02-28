@@ -1,6 +1,6 @@
 ---
 title: Cron jobs en .NET
-published: 2025-02-25
+published: 2025-02-28
 description: 'NuGet para crear cron jobs en .NET'
 image: ''
 tags: [.Net, Cron, Programación]
